@@ -1,0 +1,1193 @@
+[
+    {
+        "user_id": 1,
+        "log_num": 5,
+        "logs": [
+            {
+                "exer_id": 728,
+                "score": 1,
+                "knowledge_code": [
+                    728
+                ]
+            },
+            {
+                "exer_id": 236,
+                "score": 1,
+                "knowledge_code": [
+                    236
+                ]
+            },
+            {
+                "exer_id": 729,
+                "score": 1,
+                "knowledge_code": [
+                    729
+                ]
+            },
+            {
+                "exer_id": 445,
+                "score": 1,
+                "knowledge_code": [
+                    445
+                ]
+            },
+            {
+                "exer_id": 762,
+                "score": 0,
+                "knowledge_code": [
+                    762
+                ]
+            }
+        ]
+    },
+    {
+        "user_id": 2,
+        "log_num": 5,
+        "logs": [
+            {
+                "exer_id": 652,
+                "score": 0,
+                "knowledge_code": [
+                    652
+                ]
+            },
+            {
+                "exer_id": 37,
+                "score": 0,
+                "knowledge_code": [
+                    37
+                ]
+            },
+            {
+                "exer_id": 728,
+                "score": 0,
+                "knowledge_code": [
+                    728
+                ]
+            },
+            {
+                "exer_id": 505,
+                "score": 0,
+                "knowledge_code": [
+                    505
+                ]
+            },
+            {
+                "exer_id": 757,
+                "score": 0,
+                "knowledge_code": [
+                    757
+                ]
+            }
+        ]
+    },
+    {
+        "user_id": 3,
+        "log_num": 3,
+        "logs": [
+            {
+                "exer_id": 291,
+                "score": 0,
+                "knowledge_code": [
+                    291
+                ]
+            },
+            {
+                "exer_id": 58,
+                "score": 0,
+                "knowledge_code": [
+                    58
+                ]
+            },
+            {
+                "exer_id": 496,
+                "score": 0,
+                "knowledge_code": [
+                    496
+                ]
+            }
+        ]
+    },
+    {
+        "user_id": 4,
+        "log_num": 4,
+        "logs": [
+            {
+                "exer_id": 717,
+                "score": 0,
+                "knowledge_code": [
+                    717
+                ]
+            },
+            {
+                "exer_id": 792,
+                "score": 1,
+                "knowledge_code": [
+                    792
+                ]
+            },
+            {
+                "exer_id": 674,
+                "score": 1,
+                "knowledge_code": [
+                    674
+                ]
+            },
+            {
+                "exer_id": 607,
+                "score": 1,
+                "knowledge_code": [
+                    607
+                ]
+            }
+        ]
+    },
+    {
+        "user_id": 5,
+        "log_num": 3,
+        "logs": [
+            {
+                "exer_id": 447,
+                "score": 1,
+                "knowledge_code": [
+                    447
+                ]
+            },
+            {
+                "exer_id": 674,
+                "score": 1,
+                "knowledge_code": [
+                    674
+                ]
+            },
+            {
+                "exer_id": 422,
+                "score": 1,
+                "knowledge_code": [
+                    422
+                ]
+            }
+        ]
+    },
+    {
+        "user_id": 6,
+        "log_num": 9,
+        "logs": [
+            {
+                "exer_id": 45,
+                "score": 0,
+                "knowledge_code": [
+                    45
+                ]
+            },
+            {
+                "exer_id": 445,
+                "score": 1,
+                "knowledge_code": [
+                    445
+                ]
+            },
+            {
+                "exer_id": 443,
+                "score": 1,
+                "knowledge_code": [
+                    443
+                ]
+            },
+            {
+                "exer_id": 488,
+                "score": 1,
+                "knowledge_code": [
+                    488
+                ]
+            },
+            {
+                "exer_id": 609,
+                "score": 1,
+                "knowledge_code": [
+                    609
+                ]
+            },
+            {
+                "exer_id": 238,
+                "score": 1,
+                "knowledge_code": [
+                    238
+                ]
+            },
+            {
+                "exer_id": 612,
+                "score": 1,
+                "knowledge_code": [
+                    612
+                ]
+            },
+            {
+                "exer_id": 35,
+                "score": 1,
+                "knowledge_code": [
+                    35
+                ]
+            },
+            {
+                "exer_id": 43,
+                "score": 1,
+                "knowledge_code": [
+                    43
+                ]
+            }
+        ]
+    },
+    {
+        "user_id": 7,
+        "log_num": 5,
+        "logs": [
+            {
+                "exer_id": 689,
+                "score": 0,
+                "knowledge_code": [
+                    689
+                ]
+            },
+            {
+                "exer_id": 533,
+                "score": 1,
+                "knowledge_code": [
+                    533
+                ]
+            },
+            {
+                "exer_id": 209,
+                "score": 1,
+                "knowledge_code": [
+                    209
+                ]
+            },
+            {
+                "exer_id": 310,
+                "score": 1,
+                "knowledge_code": [
+                    310
+                ]
+            },
+            {
+                "exer_id": 648,
+                "score": 1,
+                "knowledge_code": [
+                    648
+                ]
+            }
+        ]
+    },
+    {
+        "user_id": 8,
+        "log_num": 5,
+        "logs": [
+            {
+                "exer_id": 445,
+                "score": 1,
+                "knowledge_code": [
+                    445
+                ]
+            },
+            {
+                "exer_id": 729,
+                "score": 1,
+                "knowledge_code": [
+                    729
+                ]
+            },
+            {
+                "exer_id": 217,
+                "score": 0,
+                "knowledge_code": [
+                    217
+                ]
+            },
+            {
+                "exer_id": 33,
+                "score": 1,
+                "knowledge_code": [
+                    33
+                ]
+            },
+            {
+                "exer_id": 32,
+                "score": 1,
+                "knowledge_code": [
+                    32
+                ]
+            }
+        ]
+    },
+    {
+        "user_id": 9,
+        "log_num": 8,
+        "logs": [
+            {
+                "exer_id": 786,
+                "score": 0,
+                "knowledge_code": [
+                    786
+                ]
+            },
+            {
+                "exer_id": 622,
+                "score": 0,
+                "knowledge_code": [
+                    622
+                ]
+            },
+            {
+                "exer_id": 443,
+                "score": 1,
+                "knowledge_code": [
+                    443
+                ]
+            },
+            {
+                "exer_id": 421,
+                "score": 1,
+                "knowledge_code": [
+                    421
+                ]
+            },
+            {
+                "exer_id": 15,
+                "score": 1,
+                "knowledge_code": [
+                    15
+                ]
+            },
+            {
+                "exer_id": 33,
+                "score": 1,
+                "knowledge_code": [
+                    33
+                ]
+            },
+            {
+                "exer_id": 26,
+                "score": 1,
+                "knowledge_code": [
+                    26
+                ]
+            },
+            {
+                "exer_id": 505,
+                "score": 0,
+                "knowledge_code": [
+                    505
+                ]
+            }
+        ]
+    },
+    {
+        "user_id": 10,
+        "log_num": 13,
+        "logs": [
+            {
+                "exer_id": 553,
+                "score": 0,
+                "knowledge_code": [
+                    553
+                ]
+            },
+            {
+                "exer_id": 751,
+                "score": 1,
+                "knowledge_code": [
+                    751
+                ]
+            },
+            {
+                "exer_id": 448,
+                "score": 1,
+                "knowledge_code": [
+                    448
+                ]
+            },
+            {
+                "exer_id": 750,
+                "score": 0,
+                "knowledge_code": [
+                    750
+                ]
+            },
+            {
+                "exer_id": 232,
+                "score": 1,
+                "knowledge_code": [
+                    232
+                ]
+            },
+            {
+                "exer_id": 731,
+                "score": 1,
+                "knowledge_code": [
+                    731
+                ]
+            },
+            {
+                "exer_id": 358,
+                "score": 1,
+                "knowledge_code": [
+                    358
+                ]
+            },
+            {
+                "exer_id": 728,
+                "score": 1,
+                "knowledge_code": [
+                    728
+                ]
+            },
+            {
+                "exer_id": 763,
+                "score": 0,
+                "knowledge_code": [
+                    763
+                ]
+            },
+            {
+                "exer_id": 759,
+                "score": 1,
+                "knowledge_code": [
+                    759
+                ]
+            },
+            {
+                "exer_id": 237,
+                "score": 1,
+                "knowledge_code": [
+                    237
+                ]
+            },
+            {
+                "exer_id": 493,
+                "score": 0,
+                "knowledge_code": [
+                    493
+                ]
+            },
+            {
+                "exer_id": 236,
+                "score": 1,
+                "knowledge_code": [
+                    236
+                ]
+            }
+        ]
+    },
+    {
+        "user_id": 11,
+        "log_num": 4,
+        "logs": [
+            {
+                "exer_id": 58,
+                "score": 0,
+                "knowledge_code": [
+                    58
+                ]
+            },
+            {
+                "exer_id": 37,
+                "score": 1,
+                "knowledge_code": [
+                    37
+                ]
+            },
+            {
+                "exer_id": 59,
+                "score": 0,
+                "knowledge_code": [
+                    59
+                ]
+            },
+            {
+                "exer_id": 750,
+                "score": 1,
+                "knowledge_code": [
+                    750
+                ]
+            }
+        ]
+    },
+    {
+        "user_id": 12,
+        "log_num": 3,
+        "logs": [
+            {
+                "exer_id": 716,
+                "score": 0,
+                "knowledge_code": [
+                    716
+                ]
+            },
+            {
+                "exer_id": 730,
+                "score": 1,
+                "knowledge_code": [
+                    730
+                ]
+            },
+            {
+                "exer_id": 488,
+                "score": 1,
+                "knowledge_code": [
+                    488
+                ]
+            }
+        ]
+    },
+    {
+        "user_id": 13,
+        "log_num": 9,
+        "logs": [
+            {
+                "exer_id": 124,
+                "score": 1,
+                "knowledge_code": [
+                    124
+                ]
+            },
+            {
+                "exer_id": 1,
+                "score": 0,
+                "knowledge_code": [
+                    1
+                ]
+            },
+            {
+                "exer_id": 91,
+                "score": 1,
+                "knowledge_code": [
+                    91
+                ]
+            },
+            {
+                "exer_id": 32,
+                "score": 1,
+                "knowledge_code": [
+                    32
+                ]
+            },
+            {
+                "exer_id": 197,
+                "score": 1,
+                "knowledge_code": [
+                    197
+                ]
+            },
+            {
+                "exer_id": 491,
+                "score": 0,
+                "knowledge_code": [
+                    491
+                ]
+            },
+            {
+                "exer_id": 238,
+                "score": 1,
+                "knowledge_code": [
+                    238
+                ]
+            },
+            {
+                "exer_id": 239,
+                "score": 1,
+                "knowledge_code": [
+                    239
+                ]
+            },
+            {
+                "exer_id": 236,
+                "score": 1,
+                "knowledge_code": [
+                    236
+                ]
+            }
+        ]
+    },
+    {
+        "user_id": 14,
+        "log_num": 4,
+        "logs": [
+            {
+                "exer_id": 236,
+                "score": 1,
+                "knowledge_code": [
+                    236
+                ]
+            },
+            {
+                "exer_id": 33,
+                "score": 1,
+                "knowledge_code": [
+                    33
+                ]
+            },
+            {
+                "exer_id": 90,
+                "score": 0,
+                "knowledge_code": [
+                    90
+                ]
+            },
+            {
+                "exer_id": 445,
+                "score": 1,
+                "knowledge_code": [
+                    445
+                ]
+            }
+        ]
+    },
+    {
+        "user_id": 15,
+        "log_num": 9,
+        "logs": [
+            {
+                "exer_id": 646,
+                "score": 0,
+                "knowledge_code": [
+                    646
+                ]
+            },
+            {
+                "exer_id": 467,
+                "score": 0,
+                "knowledge_code": [
+                    467
+                ]
+            },
+            {
+                "exer_id": 236,
+                "score": 1,
+                "knowledge_code": [
+                    236
+                ]
+            },
+            {
+                "exer_id": 217,
+                "score": 1,
+                "knowledge_code": [
+                    217
+                ]
+            },
+            {
+                "exer_id": 234,
+                "score": 0,
+                "knowledge_code": [
+                    234
+                ]
+            },
+            {
+                "exer_id": 233,
+                "score": 1,
+                "knowledge_code": [
+                    233
+                ]
+            },
+            {
+                "exer_id": 183,
+                "score": 1,
+                "knowledge_code": [
+                    183
+                ]
+            },
+            {
+                "exer_id": 444,
+                "score": 1,
+                "knowledge_code": [
+                    444
+                ]
+            },
+            {
+                "exer_id": 488,
+                "score": 1,
+                "knowledge_code": [
+                    488
+                ]
+            }
+        ]
+    },
+    {
+        "user_id": 16,
+        "log_num": 35,
+        "logs": [
+            {
+                "exer_id": 637,
+                "score": 0,
+                "knowledge_code": [
+                    637
+                ]
+            },
+            {
+                "exer_id": 167,
+                "score": 1,
+                "knowledge_code": [
+                    167
+                ]
+            },
+            {
+                "exer_id": 42,
+                "score": 1,
+                "knowledge_code": [
+                    42
+                ]
+            },
+            {
+                "exer_id": 611,
+                "score": 0,
+                "knowledge_code": [
+                    611
+                ]
+            },
+            {
+                "exer_id": 519,
+                "score": 0,
+                "knowledge_code": [
+                    519
+                ]
+            },
+            {
+                "exer_id": 388,
+                "score": 1,
+                "knowledge_code": [
+                    388
+                ]
+            },
+            {
+                "exer_id": 23,
+                "score": 1,
+                "knowledge_code": [
+                    23
+                ]
+            },
+            {
+                "exer_id": 554,
+                "score": 1,
+                "knowledge_code": [
+                    554
+                ]
+            },
+            {
+                "exer_id": 761,
+                "score": 1,
+                "knowledge_code": [
+                    761
+                ]
+            },
+            {
+                "exer_id": 526,
+                "score": 1,
+                "knowledge_code": [
+                    526
+                ]
+            },
+            {
+                "exer_id": 32,
+                "score": 1,
+                "knowledge_code": [
+                    32
+                ]
+            },
+            {
+                "exer_id": 54,
+                "score": 1,
+                "knowledge_code": [
+                    54
+                ]
+            },
+            {
+                "exer_id": 447,
+                "score": 0,
+                "knowledge_code": [
+                    447
+                ]
+            },
+            {
+                "exer_id": 10,
+                "score": 1,
+                "knowledge_code": [
+                    10
+                ]
+            },
+            {
+                "exer_id": 80,
+                "score": 1,
+                "knowledge_code": [
+                    80
+                ]
+            },
+            {
+                "exer_id": 827,
+                "score": 0,
+                "knowledge_code": [
+                    827
+                ]
+            },
+            {
+                "exer_id": 494,
+                "score": 1,
+                "knowledge_code": [
+                    494
+                ]
+            },
+            {
+                "exer_id": 185,
+                "score": 1,
+                "knowledge_code": [
+                    185
+                ]
+            },
+            {
+                "exer_id": 243,
+                "score": 0,
+                "knowledge_code": [
+                    243
+                ]
+            },
+            {
+                "exer_id": 240,
+                "score": 1,
+                "knowledge_code": [
+                    240
+                ]
+            },
+            {
+                "exer_id": 752,
+                "score": 1,
+                "knowledge_code": [
+                    752
+                ]
+            },
+            {
+                "exer_id": 277,
+                "score": 0,
+                "knowledge_code": [
+                    277
+                ]
+            },
+            {
+                "exer_id": 259,
+                "score": 1,
+                "knowledge_code": [
+                    259
+                ]
+            },
+            {
+                "exer_id": 35,
+                "score": 1,
+                "knowledge_code": [
+                    35
+                ]
+            },
+            {
+                "exer_id": 274,
+                "score": 1,
+                "knowledge_code": [
+                    274
+                ]
+            },
+            {
+                "exer_id": 1,
+                "score": 1,
+                "knowledge_code": [
+                    1
+                ]
+            },
+            {
+                "exer_id": 730,
+                "score": 1,
+                "knowledge_code": [
+                    730
+                ]
+            },
+            {
+                "exer_id": 341,
+                "score": 1,
+                "knowledge_code": [
+                    341
+                ]
+            },
+            {
+                "exer_id": 188,
+                "score": 0,
+                "knowledge_code": [
+                    188
+                ]
+            },
+            {
+                "exer_id": 68,
+                "score": 1,
+                "knowledge_code": [
+                    68
+                ]
+            },
+            {
+                "exer_id": 197,
+                "score": 1,
+                "knowledge_code": [
+                    197
+                ]
+            },
+            {
+                "exer_id": 558,
+                "score": 1,
+                "knowledge_code": [
+                    558
+                ]
+            },
+            {
+                "exer_id": 764,
+                "score": 1,
+                "knowledge_code": [
+                    764
+                ]
+            },
+            {
+                "exer_id": 198,
+                "score": 0,
+                "knowledge_code": [
+                    198
+                ]
+            },
+            {
+                "exer_id": 620,
+                "score": 1,
+                "knowledge_code": [
+                    620
+                ]
+            }
+        ]
+    },
+    {
+        "user_id": 17,
+        "log_num": 5,
+        "logs": [
+            {
+                "exer_id": 16,
+                "score": 0,
+                "knowledge_code": [
+                    16
+                ]
+            },
+            {
+                "exer_id": 385,
+                "score": 0,
+                "knowledge_code": [
+                    385
+                ]
+            },
+            {
+                "exer_id": 182,
+                "score": 1,
+                "knowledge_code": [
+                    182
+                ]
+            },
+            {
+                "exer_id": 15,
+                "score": 1,
+                "knowledge_code": [
+                    15
+                ]
+            },
+            {
+                "exer_id": 33,
+                "score": 1,
+                "knowledge_code": [
+                    33
+                ]
+            }
+        ]
+    },
+    {
+        "user_id": 18,
+        "log_num": 7,
+        "logs": [
+            {
+                "exer_id": 32,
+                "score": 1,
+                "knowledge_code": [
+                    32
+                ]
+            },
+            {
+                "exer_id": 749,
+                "score": 1,
+                "knowledge_code": [
+                    749
+                ]
+            },
+            {
+                "exer_id": 445,
+                "score": 1,
+                "knowledge_code": [
+                    445
+                ]
+            },
+            {
+                "exer_id": 446,
+                "score": 0,
+                "knowledge_code": [
+                    446
+                ]
+            },
+            {
+                "exer_id": 612,
+                "score": 1,
+                "knowledge_code": [
+                    612
+                ]
+            },
+            {
+                "exer_id": 634,
+                "score": 1,
+                "knowledge_code": [
+                    634
+                ]
+            },
+            {
+                "exer_id": 768,
+                "score": 1,
+                "knowledge_code": [
+                    768
+                ]
+            }
+        ]
+    },
+    {
+        "user_id": 19,
+        "log_num": 5,
+        "logs": [
+            {
+                "exer_id": 241,
+                "score": 1,
+                "knowledge_code": [
+                    241
+                ]
+            },
+            {
+                "exer_id": 91,
+                "score": 1,
+                "knowledge_code": [
+                    91
+                ]
+            },
+            {
+                "exer_id": 33,
+                "score": 1,
+                "knowledge_code": [
+                    33
+                ]
+            },
+            {
+                "exer_id": 731,
+                "score": 1,
+                "knowledge_code": [
+                    731
+                ]
+            },
+            {
+                "exer_id": 35,
+                "score": 1,
+                "knowledge_code": [
+                    35
+                ]
+            }
+        ]
+    },
+    {
+        "user_id": 20,
+        "log_num": 12,
+        "logs": [
+            {
+                "exer_id": 115,
+                "score": 0,
+                "knowledge_code": [
+                    115
+                ]
+            },
+            {
+                "exer_id": 648,
+                "score": 0,
+                "knowledge_code": [
+                    648
+                ]
+            },
+            {
+                "exer_id": 509,
+                "score": 1,
+                "knowledge_code": [
+                    509
+                ]
+            },
+            {
+                "exer_id": 829,
+                "score": 0,
+                "knowledge_code": [
+                    829
+                ]
+            },
+            {
+                "exer_id": 702,
+                "score": 0,
+                "knowledge_code": [
+                    702
+                ]
+            },
+            {
+                "exer_id": 388,
+                "score": 1,
+                "knowledge_code": [
+                    388
+                ]
+            },
+            {
+                "exer_id": 733,
+                "score": 1,
+                "knowledge_code": [
+                    733
+                ]
+            },
+            {
+                "exer_id": 625,
+                "score": 1,
+                "knowledge_code": [
+                    625
+                ]
+            },
+            {
+                "exer_id": 391,
+                "score": 0,
+                "knowledge_code": [
+                    391
+                ]
+            },
+            {
+                "exer_id": 512,
+                "score": 0,
+                "knowledge_code": [
+                    512
+                ]
+            },
+            {
+                "exer_id": 273,
+                "score": 1,
+                "knowledge_code": [
+                    273
+                ]
+            },
+            {
+                "exer_id": 389,
+                "score": 1,
+                "knowledge_code": [
+                    389
+                ]
+            }
+        ]
+    }
+]
